@@ -12,7 +12,7 @@ import { CgGym } from "react-icons/cg";
 import {} from "react-icons/gi";
 
 export const categories = [
-  { name: "Today's Deals", icon: <AiOutlineFire /> },
+  { name: "Decoration", icon: <AiOutlineFire /> },
   { name: "Electronics", icon: <AiOutlineFundProjectionScreen /> },
   { name: "Phones", icon: <AiOutlineMobile /> },
   { name: "Laptops", icon: <AiOutlineLaptop /> },
